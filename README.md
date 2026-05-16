@@ -2,4 +2,4 @@
 branch me merge ke liya kuchh add krna tha to kr diya ye line ab merge ke liya ==e try krna hai .
 changes done while on main branch.
 feature me akr changes ki .
-
+//git me mistekes ko change krne ke liye try krna hai 
